@@ -1,0 +1,1 @@
+cmd_/home/nagalakshmi/Documents/test/charcter_driver/char_dev.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/nagalakshmi/Documents/test/charcter_driver/char_dev.ko /home/nagalakshmi/Documents/test/charcter_driver/char_dev.o /home/nagalakshmi/Documents/test/charcter_driver/char_dev.mod.o;  true

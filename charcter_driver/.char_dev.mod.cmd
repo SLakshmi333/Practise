@@ -1,0 +1,1 @@
+cmd_/home/nagalakshmi/Documents/test/charcter_driver/char_dev.mod := { echo  /home/nagalakshmi/Documents/test/charcter_driver/char_dev.o;  echo; } > /home/nagalakshmi/Documents/test/charcter_driver/char_dev.mod

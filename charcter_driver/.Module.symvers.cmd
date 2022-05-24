@@ -1,0 +1,1 @@
+cmd_/home/nagalakshmi/Documents/test/charcter_driver/Module.symvers := sed 's/\.ko$$/\.o/' /home/nagalakshmi/Documents/test/charcter_driver/modules.order | scripts/mod/modpost -m -a  -o /home/nagalakshmi/Documents/test/charcter_driver/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/nagalakshmi/Documents/test/put_get/put.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/nagalakshmi/Documents/test/put_get/put.ko /home/nagalakshmi/Documents/test/put_get/put.o /home/nagalakshmi/Documents/test/put_get/put.mod.o;  true
